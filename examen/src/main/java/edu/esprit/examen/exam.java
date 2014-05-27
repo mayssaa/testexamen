@@ -6,7 +6,7 @@ public class exam {
 	}
 	public int process(int n){
 		if(n<2)
-		{return n;
+		{return 60;
 		}
 		else
 		{
